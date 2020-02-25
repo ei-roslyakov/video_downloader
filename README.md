@@ -10,5 +10,5 @@ _pip3 install -r requirements.txt_
 _python3 downloader.py --url --convert --path_
 
 --url (playlist url)\
---path (folder for downloaded files, by)\
+--path (folder for downloaded files, by default ./downloads)\
 --convert (convert to mp3, if no, don’t put this argument)
