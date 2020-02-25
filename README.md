@@ -1,11 +1,11 @@
 # Downloader
-Script for downloading video from Youtube
+## Script for downloading video from Youtube
 
-# You should install necessary requirements to use this script
+### You should install necessary requirements to use this script
 
 _pip3 install -r requirements.txt_
 
-# After this you can download video
+### After this you can download video
 
 _python3 downloader.py --url --convert --path_
 
