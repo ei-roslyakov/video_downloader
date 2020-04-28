@@ -1,5 +1,5 @@
 # Downloader
-## Script for downloading video from Youtube
+## Script for downloading video
 
 ### You should install necessary requirements to use this script
 
